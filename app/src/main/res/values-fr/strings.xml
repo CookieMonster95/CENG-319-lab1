@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ravindraramdhanie_ceng319lab1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="create">onCreate exécuté</string>
+    <string name="start">onStart exécuté</string>
+    <string name="stop">onStop exécuté</string>
+    <string name="destroy">onDestroy exécuté</string>
+    <string name="d.tag">Cycle de la vie</string>
+    <string name="Ai_title">AIActivité </string>
+    <string name="Vr_title">AIActivité </string>
+    <string name="ai.tag">AI Activité </string>
+    <string name="vr.tag">VR Activité </string>
+</resources>
